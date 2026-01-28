@@ -6,7 +6,7 @@ const nome = "Ernesto Sampaio"
 
   return (
     <View style={styles.container}>
-      <Text>Hello + {nome}!</Text>
+      <Text>Hello {nome}!</Text>
     </View>
   );
 }
